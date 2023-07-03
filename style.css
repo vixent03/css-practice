@@ -80,7 +80,7 @@ header {
 
 .social-media a:hover {
     border-color: white;
-    color: blue;
+    color: tranparent;
     background-color: white;
 }
 
